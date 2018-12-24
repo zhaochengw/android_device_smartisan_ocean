@@ -1,0 +1,66 @@
+# Android key code, reference http://developer.android.com/reference/android/view/KeyEvent.html
+# keycode 2 (input.h, BACK) mapping to Android keycode 4 (BACK)
+key 2   BACK
+
+# keycode 3 (input.h, HOME) mapping to Android keycode 3 (HOME)
+key 3   HOME
+
+# keycode 4 (input.h, APPSELECT) mapping to Android keycode 187 (APP_SWITCH)
+key 4   APP_SWITCH
+
+# keycode 5 (input.h, SCREEN_OFF) mapping to Android keycode 26 (POWER)
+key 5   WAKEUP
+
+# keycode 6 (input.h, SCREEN_CAPTURE) mapping to Android keycode 120 (SYSRQ)
+key 6   SYSRQ
+
+# keycode 7 (input.h, SWIPE_LEFT) mapping to Android keycode  (DPAD_LEFT)
+key 7   DPAD_LEFT
+
+# keycode 8 (input.h, SWIPE_RIGHT) mapping to Android keycode  (DPAD_RIGHT)
+key 8   DPAD_RIGHT
+
+# keycode 9 (input.h, SWIPE_UP) mapping to Android keycode  (DPAD_UP)
+key 9   DPAD_UP
+
+# keycode 10 (input.h, SWIPE_DOWN) mapping to Android keycode  (DPAD_DOWN)
+key 10  DPAD_DOWN
+
+# keycode 11 (input.h, NVT_MENU) mapping to Android keycode  (MENU)
+key 11  MENU
+
+# keycode 12 (input.h, ZOOM_OUT) mapping to Android keycode  (ZOOM_OUT)
+key 12  ZOOM_OUT
+
+# keycode 13 (input.h, ZOOM_IN) mapping to Android keycode  (ZOOM_IN)
+key 13  ZOOM_IN
+
+# keycode 14 (input.h, DEBUG_CORRECT) mapping to Android keycode  (TV_INPUT_HDMI_3)
+key 14  TV_INPUT_HDMI_3
+
+# keycode 15 (input.h, DEBUG_INCORRECT) mapping to Android keycode  (TV_INPUT_HDMI_4)
+key 15  TV_INPUT_HDMI_4
+
+# keycode 100 (input.h, DEBUG_0) mapping to Android keycode  (NUMPAD_0)
+key 100  NUMPAD_0
+
+# keycode 101 (input.h, DEBUG_1) mapping to Android keycode  (NUMPAD_1)
+key 101  NUMPAD_1
+
+# keycode 102 (input.h, DEBUG_2) mapping to Android keycode  (NUMPAD_2)
+key 102  NUMPAD_2
+
+# keycode 103 (input.h, DEBUG_3) mapping to Android keycode  (NUMPAD_3)
+key 103  NUMPAD_3
+
+# keycode 104 (input.h, DEBUG_4) mapping to Android keycode  (NUMPAD_4)
+key 104  NUMPAD_4
+
+# keycode 105 (input.h, DEBUG_5) mapping to Android keycode  (NUMPAD_5)
+key 105  NUMPAD_5
+
+# keycode 107 (input.h, DEBUG_6) mapping to Android keycode  (NUMPAD_6)
+key 106  NUMPAD_6
+
+# keycode 249 mapping to Smartisan keycode for Camera Selfie function
+key 249  FINGERPRINT
